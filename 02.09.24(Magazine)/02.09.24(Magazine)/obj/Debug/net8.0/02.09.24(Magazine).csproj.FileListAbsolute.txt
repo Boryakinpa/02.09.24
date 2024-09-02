@@ -1,0 +1,14 @@
+C:\Users\boryakinpa\source\repos\02.09.24(Magazine)\02.09.24(Magazine)\bin\Debug\net8.0\02.09.24(Magazine).exe
+C:\Users\boryakinpa\source\repos\02.09.24(Magazine)\02.09.24(Magazine)\bin\Debug\net8.0\02.09.24(Magazine).deps.json
+C:\Users\boryakinpa\source\repos\02.09.24(Magazine)\02.09.24(Magazine)\bin\Debug\net8.0\02.09.24(Magazine).runtimeconfig.json
+C:\Users\boryakinpa\source\repos\02.09.24(Magazine)\02.09.24(Magazine)\bin\Debug\net8.0\02.09.24(Magazine).dll
+C:\Users\boryakinpa\source\repos\02.09.24(Magazine)\02.09.24(Magazine)\bin\Debug\net8.0\02.09.24(Magazine).pdb
+C:\Users\boryakinpa\source\repos\02.09.24(Magazine)\02.09.24(Magazine)\obj\Debug\net8.0\02.09.24(Magazine).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boryakinpa\source\repos\02.09.24(Magazine)\02.09.24(Magazine)\obj\Debug\net8.0\02.09.24(Magazine).AssemblyInfoInputs.cache
+C:\Users\boryakinpa\source\repos\02.09.24(Magazine)\02.09.24(Magazine)\obj\Debug\net8.0\02.09.24(Magazine).AssemblyInfo.cs
+C:\Users\boryakinpa\source\repos\02.09.24(Magazine)\02.09.24(Magazine)\obj\Debug\net8.0\02.09.24(Magazine).csproj.CoreCompileInputs.cache
+C:\Users\boryakinpa\source\repos\02.09.24(Magazine)\02.09.24(Magazine)\obj\Debug\net8.0\02.09.24(Magazine).dll
+C:\Users\boryakinpa\source\repos\02.09.24(Magazine)\02.09.24(Magazine)\obj\Debug\net8.0\refint\02.09.24(Magazine).dll
+C:\Users\boryakinpa\source\repos\02.09.24(Magazine)\02.09.24(Magazine)\obj\Debug\net8.0\02.09.24(Magazine).pdb
+C:\Users\boryakinpa\source\repos\02.09.24(Magazine)\02.09.24(Magazine)\obj\Debug\net8.0\02.09.24(Magazine).genruntimeconfig.cache
+C:\Users\boryakinpa\source\repos\02.09.24(Magazine)\02.09.24(Magazine)\obj\Debug\net8.0\ref\02.09.24(Magazine).dll
